@@ -6,7 +6,7 @@
 * Created a MySQL script to upload and pre-process the data, as well as build several pivot tables to help leadership better understand customer segments.
 * Created an R programming language script to upload and pre-process the data, build several pivot tables, and create visualizations to better present data to leadership.
 * Created a [Tableau Storyboard](https://public.tableau.com/app/profile/tony.gutierrez/viz/CyclisticBikeShare_16843493078500/Story1) to present findings to leadership, including several recommendations.
-* Wrote a series of [Medium](https://medium.com/@tonygutierrez_60520](https://medium.com/@tonygutierrez_60520/cyclistic-bike-share-business-case-introduction-f3efb2294687) articles to futher explain each stage of the data analysis process.
+* Wrote a series of [Medium](https://medium.com/@tonygutierrez_60520/cyclistic-bike-share-business-case-introduction-f3efb2294687) articles to futher explain each stage of the data analysis process.
 
 ## Code and Resources Used
 **R Version:** 4.2.2
