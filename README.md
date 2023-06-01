@@ -1,5 +1,6 @@
 # Cyclistic Bike Share Study Case
-![image](https://github.com/eangutierrez/Cyclistic_Bike_Share/assets/92600212/89b3e6b9-309f-4d74-8f8c-7096a1629c50)
+<img src="https://cdn.stocksnap.io/img-thumbs/960w/bridge-people_ONSNHWZTQ9.jpg"
+ width=50% height=50% align=right>
 
 ## Project Overview
 * Created a MySQL script to upload and pre-process the data, as well as build several pivot tables to help leadership better understand customer segments.
